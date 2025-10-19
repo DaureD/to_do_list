@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DaureD/to_do_list.git/static/css/main.1fdd68ab.css",
+    "main.js": "/DaureD/to_do_list.git/static/js/main.ca614d84.js",
+    "index.html": "/DaureD/to_do_list.git/index.html",
+    "main.1fdd68ab.css.map": "/DaureD/to_do_list.git/static/css/main.1fdd68ab.css.map",
+    "main.ca614d84.js.map": "/DaureD/to_do_list.git/static/js/main.ca614d84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fdd68ab.css",
+    "static/js/main.ca614d84.js"
+  ]
+}
